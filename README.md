@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/columnate.svg?longCache=True)](https://pypi.org/project/columnate/)
-[![](https://img.shields.io/pypi/v/columnate.svg?maxAge=3600)](https://pypi.org/project/columnate/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/columnate.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/columnate.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/columnate.svg?maxAge=3600)](https://pypi.org/project/columnate/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/columnate.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/columnate.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install columnate
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`columnate.lists(matrix)` |columnate lists
 
 #### Examples
 ```python
@@ -27,5 +22,5 @@ function|`__doc__`
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

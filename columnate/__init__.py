@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-import public
+__all__ = ['lists']
 
 
 def _lists(matrix):
@@ -8,7 +7,6 @@ def _lists(matrix):
         yield "  ".join((str(val).ljust(width) for val, width in zip(row, widths)))
 
 
-@public.add
 def lists(matrix):
     """columnate lists"""
     return "\n".join(list(_lists(matrix)))
